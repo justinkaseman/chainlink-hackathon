@@ -1,5 +1,9 @@
 # chainlink-hackathon
 
+Proof of concept for a modified Chainlink node that will use Uniswap v1 to turn itself into a Goerli validator.
+
+Once staked as a validator it will return itself to normal node functionality.
+
 ### Starting local GETH
 
 ```
